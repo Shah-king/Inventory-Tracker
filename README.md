@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Pantry Management System
+
+A web-based application designed to efficiently manage pantry items, track inventory, and ensure users can keep their supplies organized. The application features user authentication, real-time data storage, and an intuitive interface, making pantry management easy and accessible for all.
+
+## Features
+- **User Authentication**: Secure login and registration to keep user data private.
+- **Real-Time Inventory Management**: Add, edit, or remove pantry items and see changes in real-time using Firebase.
+- **Category-Based Organization**: Organize items by category, such as grains, spices, beverages, and more.
+
+  This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
